@@ -33,25 +33,6 @@ python soma.py
 
 ---
 
-## 📂 Folder Structure | Estrutura de Pastas
-
-```bash
-python-daily
-├── exercicios
-│   ├── 01_variaveis_tipos
-│   ├── 02_condicionais
-│   ├── 03_lacos_repeticao
-│   ├── 04_listas_dicionarios
-│   ├── 05_funcoes
-│   └── 06_algoritmos_basicos
-└── README.md
-```
-
-Each folder contains exercises of increasing complexity.
-Cada pasta contém exercícios com complexidade crescente.
-
----
-
 ## 📓 How to Use | Como Utilizar
 
 - Open any `.py` file and run it via terminal or Python runner in VSCode.
