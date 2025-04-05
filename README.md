@@ -25,12 +25,6 @@ Este repositório contém uma coleção de exercícios diários organizados por 
 git clone https://github.com/victorb2k/python-daily.git
 ```
 
-### Run your first exercise | Rode seu primeiro exercício
-```bash
-cd python-daily/exercicios/01_variaveis_tipos
-python soma.py
-```
-
 ---
 
 ## 📓 How to Use | Como Utilizar
